@@ -1,0 +1,24 @@
+C:\Users\William\AppData\Local\Temporary Projects\TotoEV-Demo\bin\Debug\TotoEV-Demo.exe.config
+C:\Users\William\AppData\Local\Temporary Projects\TotoEV-Demo\obj\Debug\TotoEV-Demo.vbprojResolveAssemblyReference.cache
+C:\Users\William\AppData\Local\Temporary Projects\TotoEV-Demo\obj\Debug\TotoEV_Demo.Form1.resources
+C:\Users\William\AppData\Local\Temporary Projects\TotoEV-Demo\obj\Debug\TotoEV_Demo.Resources.resources
+C:\Users\William\AppData\Local\Temporary Projects\TotoEV-Demo\obj\Debug\TotoEV-Demo.vbproj.GenerateResource.Cache
+C:\Users\William\AppData\Local\Temporary Projects\TotoEV-Demo\bin\Debug\TotoEV-Demo.exe
+C:\Users\William\AppData\Local\Temporary Projects\TotoEV-Demo\bin\Debug\TotoEV-Demo.pdb
+C:\Users\William\AppData\Local\Temporary Projects\TotoEV-Demo\bin\Debug\TotoEV-Demo.xml
+C:\Users\William\AppData\Local\Temporary Projects\TotoEV-Demo\obj\Debug\TotoEV-Demo.exe
+C:\Users\William\AppData\Local\Temporary Projects\TotoEV-Demo\obj\Debug\TotoEV-Demo.xml
+C:\Users\William\AppData\Local\Temporary Projects\TotoEV-Demo\obj\Debug\TotoEV-Demo.pdb
+C:\Users\William\Documents\GitHub\TotoEV-Demo\TotoEV-Demo\bin\Debug\TotoEV-Demo.exe.config
+C:\Users\William\Documents\GitHub\TotoEV-Demo\TotoEV-Demo\obj\Debug\TotoEV-Demo.exe
+C:\Users\William\Documents\GitHub\TotoEV-Demo\TotoEV-Demo\obj\Debug\TotoEV-Demo.xml
+C:\Users\William\Documents\GitHub\TotoEV-Demo\TotoEV-Demo\obj\Debug\TotoEV-Demo.pdb
+C:\Users\William\Documents\GitHub\TotoEV-Demo\TotoEV-Demo\bin\Debug\TotoEV-Demo.exe
+C:\Users\William\Documents\GitHub\TotoEV-Demo\TotoEV-Demo\bin\Debug\TotoEV-Demo.pdb
+C:\Users\William\Documents\GitHub\TotoEV-Demo\TotoEV-Demo\bin\Debug\TotoEV-Demo.xml
+C:\Users\William\Documents\GitHub\TotoEV-Demo\TotoEV-Demo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\William\Documents\GitHub\TotoEV-Demo\TotoEV-Demo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\William\Documents\GitHub\TotoEV-Demo\TotoEV-Demo\obj\Debug\TotoEV-Demo.vbprojResolveAssemblyReference.cache
+C:\Users\William\Documents\GitHub\TotoEV-Demo\TotoEV-Demo\obj\Debug\TotoEV_Demo.Form1.resources
+C:\Users\William\Documents\GitHub\TotoEV-Demo\TotoEV-Demo\obj\Debug\TotoEV_Demo.Resources.resources
+C:\Users\William\Documents\GitHub\TotoEV-Demo\TotoEV-Demo\obj\Debug\TotoEV-Demo.vbproj.GenerateResource.Cache
